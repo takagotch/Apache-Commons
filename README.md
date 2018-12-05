@@ -110,6 +110,7 @@ http://commons.apache.org/proper/commons-imaging/
 http://commons.apache.org/proper/commons-scxml/
 
 #### 
+http://commons.apache.org/proper/commons-jxpath/
 
 #### 
 
