@@ -10,22 +10,22 @@ http://commons.apache.org/proper/commons-bcel/
 #### Codec
 http://commons.apache.org/proper/commons-codec/
 
-#### 
+#### Compress
 http://commons.apache.org/proper/commons-compress/
 
-#### 
+#### IO
 http://commons.apache.org/proper/commons-io/
 
-#### 
+#### Configuration
 http://commons.apache.org/proper/commons-configuration/
 
-#### 
+#### VFS
 http://commons.apache.org/proper/commons-jcs/
 
-#### 
+#### Jelly
 http://commons.apache.org/proper/commons-vfs/
 
-#### 
+#### CSV
 http://commons.apache.org/proper/commons-jelly/
 
 #### 
