@@ -98,6 +98,7 @@ http://commons.apache.org/proper/commons-daemon/
 http://commons.apache.org/proper/commons-functor/
 
 #### 
+http://commons.apache.org/proper/commons-digester/
 
 #### 
 
