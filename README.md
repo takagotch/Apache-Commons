@@ -8,6 +8,7 @@ http://commons.apache.org/proper/commons-pool/
 http://commons.apache.org/proper/commons-bcel/
 
 #### Codec
+http://commons.apache.org/proper/commons-codec/
 
 #### 
 
