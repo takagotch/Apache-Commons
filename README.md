@@ -116,6 +116,7 @@ http://commons.apache.org/proper/commons-jxpath/
 http://commons.apache.org/proper/commons-chain/
 
 #### 
+http://commons.apache.org/proper/commons-proxy/
 
 #### 
 
