@@ -11,6 +11,7 @@ http://commons.apache.org/proper/commons-bcel/
 http://commons.apache.org/proper/commons-codec/
 
 #### 
+http://commons.apache.org/proper/commons-compress/
 
 #### 
 
