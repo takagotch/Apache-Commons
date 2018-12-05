@@ -68,6 +68,7 @@ https://commons.apache.org/proper/commons-rdf/
 http://commons.apache.org/proper/commons-weaver/
 
 #### 
+http://commons.apache.org/proper/commons-beanutils/
 
 #### 
 
