@@ -71,6 +71,27 @@ http://commons.apache.org/proper/commons-weaver/
 http://commons.apache.org/proper/commons-beanutils/
 
 #### 
+http://commons.apache.org/proper/commons-collections/
+
+#### 
+
+#### 
+
+#### 
+
+#### 
+
+#### 
+
+#### 
+
+#### 
+
+#### 
+
+#### 
+
+#### 
 
 #### 
 
