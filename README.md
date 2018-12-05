@@ -35,6 +35,7 @@ http://commons.apache.org/proper/commons-csv/
 http://commons.apache.org/proper/commons-jcs/
 
 #### 
+http://commons.apache.org/proper/commons-email/
 
 #### 
 
