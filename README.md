@@ -119,6 +119,7 @@ http://commons.apache.org/proper/commons-chain/
 http://commons.apache.org/proper/commons-proxy/
 
 #### 
+http://commons.apache.org/sandbox/commons-beanutils2/
 
 #### 
 
