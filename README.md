@@ -169,7 +169,11 @@ http://commons.apache.org/sandbox/commons-pipeline/
 ```
 ```
 
-```
+```java
+@Override
+public PooledObject<Foo> wrap(Foo foo) {
+  return new DefaultPoolObject<Foo>(foo);
+}
 ```
 
 
